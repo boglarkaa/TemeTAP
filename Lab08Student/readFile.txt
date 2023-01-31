@@ -1,0 +1,5 @@
+4
+100 HarryPotter 8 6 5
+101 RonWeasley 7 5 4
+102 HermioneGranger 10 10 0
+103 NevilleLongbottom 9 7 3

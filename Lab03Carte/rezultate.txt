@@ -1,0 +1,2 @@
+JKRowling HarryPotter 123 50
+SCollins HungerGames 124 60
